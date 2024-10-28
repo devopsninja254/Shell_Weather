@@ -1,0 +1,3 @@
+-Exercise 1 - Initialize your weather report log file
+    -created rx_poc.log
+    -
